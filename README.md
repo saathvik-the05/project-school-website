@@ -1,9 +1,9 @@
-# School Website
+# School Website Mockup
 
-A static website for Little Flower School, Uppal, Hyderabad, with sections and photos of the school's facilities.
+A mockup of a multi-section school website, built for a project.
 
 **Live page:** https://saathvik-the05.github.io/project-school-website/
 
 **Built with:** HTML, CSS, Bootstrap
 
-> Independent project, built in 2021 alongside an external online coding course. I wrote the HTML and CSS myself.
+> Built in 2021 as an independent project. I wrote the HTML and CSS myself.
