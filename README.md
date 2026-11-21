@@ -4,4 +4,4 @@ A static website for Little Flower School, Uppal, Hyderabad, with sections and p
 
 **Built with:** HTML, CSS, Bootstrap
 
-> Built in 2021 during a school coding course. Kept here as a record of early work; it has not been updated since.
+> Independent project, built in 2021 alongside a school coding course. I wrote the HTML and CSS myself.
